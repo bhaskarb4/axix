@@ -8,7 +8,7 @@ incoming.telemetry.mozilla.org:HSTS	1	17530	1530392756822,1,0
 services.addons.mozilla.org:HPKP	0	17529	1519724932369,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 versioncheck-bg.addons.mozilla.org:HSTS	0	17529	1514541231683,1,0
 shavar.services.mozilla.com:HSTS	1	17530	1546160694104,1,1
-github.com:HSTS	1	17530	1546161992048,1,1
+github.com:HSTS	1	17530	1546162411541,1,1
 self-repair.mozilla.org:HSTS	1	17530	1546160654125,1,1
 avatars1.githubusercontent.com:HSTS	0	17530	1546182327839,1,0
 blocklist.addons.mozilla.org:HSTS	0	17529	1514541348052,1,0
@@ -18,5 +18,5 @@ stats.g.doubleclick.net:HSTS	0	17529	1525426973924,1,1
 versioncheck-bg.addons.mozilla.org:HPKP	0	17529	1519724931685,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
 avatars2.githubusercontent.com:HSTS	1	17530	1546182325229,1,0
 www.google.co.in:HSTS	1	17530	1514628294893,1,0
-collector.githubapp.com:HSTS	1	17530	1546161992306,1,0
-api.github.com:HSTS	1	17530	1546161993604,1,1
+collector.githubapp.com:HSTS	1	17530	1546162413536,1,0
+api.github.com:HSTS	1	17530	1546162413376,1,1
