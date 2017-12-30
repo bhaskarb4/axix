@@ -1,0 +1,20 @@
+logrotate state -- version 2
+"/home/bhaskar/.cache/upstart/indicator-bluetooth.log" 2017-12-29-1:32:23
+"/home/bhaskar/.cache/upstart/unity7.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/unity-panel-service.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/indicator-power.log" 2017-12-29-1:32:23
+"/home/bhaskar/.cache/upstart/unity-settings-daemon.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/upstart-event-bridge.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/indicator-sound.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/indicator-datetime.log" 2017-12-30-0:0:0
+"/home/bhaskar/.cache/upstart/at-spi2-registryd.log" 2017-12-29-1:32:23
+"/home/bhaskar/.cache/upstart/update-notifier-release.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/bamfdaemon.log" 2017-12-29-1:32:23
+"/home/bhaskar/.cache/upstart/window-stack-bridge.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/indicator-session.log" 2017-12-29-1:32:23
+"/home/bhaskar/.cache/upstart/dbus.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/ssh-agent.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/indicator-application.log" 2017-12-30-0:0:0
+"/home/bhaskar/.cache/upstart/gnome-keyring-ssh.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/hud.log" 2017-12-30-0:13:11
+"/home/bhaskar/.cache/upstart/gpg-agent.log" 2017-12-30-0:13:11

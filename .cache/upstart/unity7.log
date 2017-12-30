@@ -1,0 +1,4 @@
+WARN  2017-12-30 00:13:22 unity.dash.view DashView.cpp:1267 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2017-12-30 00:13:22 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2017-12-30 00:13:28 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2017-12-30 00:32:00 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
