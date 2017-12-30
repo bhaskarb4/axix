@@ -2,3 +2,12 @@ WARN  2017-12-30 00:13:22 unity.dash.view DashView.cpp:1267 Search failed  ''=> 
 WARN  2017-12-30 00:13:22 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
 WARN  2017-12-30 00:13:28 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
 WARN  2017-12-30 00:32:00 unity.glib.dbus.proxy GLibDBusProxy.cpp:487 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+1514627478137	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1514627478359	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property
+1514627478405	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1514627478440	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1514627478579	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
+1514627478653	addons.update-checker	WARN	Update manifest for timecop@mozilla.com did not contain an updates property
+1514627478682	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1514627478718	addons.update-checker	WARN	Update manifest for disableSHA1rollout@mozilla.org did not contain an updates property
+1514627478751	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
